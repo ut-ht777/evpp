@@ -1,0 +1,35 @@
+// ========================================
+//
+// @file _html.scss
+//
+// Base level styles.
+//
+// ========================================
+* { 
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  color: $colorBlack;
+  font-family: $defaultFontFamily;
+  font-size: $defaultFontSize;
+  line-height: 1.6;
+  text-rendering: optimizeLegibility !important;
+  -webkit-font-smoothing: antialiased !important;
+  -moz-osx-font-smoothing: grayscale !important;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}

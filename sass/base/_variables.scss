@@ -1,0 +1,27 @@
+// ========================================
+//
+// @file _settings.scss
+//
+// File containing fonts, colors, breakpoints, and other variables.
+//
+// ========================================
+
+//-------------------------------
+// Fonts
+//-------------------------------
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+
+$defaultFontFamily: 'Montserrat', sans-serif;
+$defaultFontSize: 1.8em;
+
+
+//-------------------------------
+// Colors
+//-------------------------------
+$colorWhite: #ffffff;
+$colorBlack: #000000;
+
+
+//-------------------------------
+// Other variables
+//-------------------------------

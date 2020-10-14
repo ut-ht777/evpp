@@ -1,0 +1,8 @@
+{
+    "name": "ut-ht777/evpp",
+    "description": "A custom theme for UTDK 3",
+    "require": {
+        "php": "^7.2",
+        "utexas/utdk_profile": "^3.0"
+    }
+}
