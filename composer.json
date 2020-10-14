@@ -1,7 +1,16 @@
 {
     "name": "ut-ht777/evpp",
     "description": "A custom theme for UTDK 3",
+    "type": "theme",
+    "authors": [
+        {
+          "name": "Henry Tijerina",
+          "email": "ht777@eid.utexas.edu",
+          "role": "Developer / Project Manager"
+        }
+      ],
     "require": {
+        "composer/installers": "^1.7",
         "php": "^7.2",
         "utexas/utdk_profile": "^3.0"
     }
