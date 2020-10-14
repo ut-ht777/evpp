@@ -1,7 +1,7 @@
 {
     "name": "ut-ht777/evpp",
     "description": "A custom theme for UTDK 3",
-    "type": "theme",
+    "type": "drupal-theme",
     "authors": [
         {
           "name": "Henry Tijerina",
